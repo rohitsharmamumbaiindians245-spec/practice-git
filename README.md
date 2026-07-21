@@ -1,2 +1,3 @@
 # practice-git
-making practice 
+lets learn gihub 
+Author : Rohit 
